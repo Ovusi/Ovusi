@@ -12,7 +12,7 @@
 
 :globe_with_meridians: Express
 
-:man_technologist: Solidity
+:man_technologist: Solidity :chains: Blockchain
 
 :mechanical_arm: Agile/SCRUM methodology
 
@@ -21,6 +21,8 @@
 :desktop_computer: Linux
 
 :moneybag: Crypto Currencies
+
+:shield: Cyber-Security
 
 ## :medal_military: ACHIEVEMENTS AND CERTIFICATIONS
 :1st_place_medal: SCRUM Master Accredited Certification - International Scrum Institute.
