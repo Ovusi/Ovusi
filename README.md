@@ -27,11 +27,13 @@
 
 :1st_place_medal: CompTia Security+ - CompTia.
 
-## SOCIAL MEDIA LINKS
+## :earth_americas: SOCIAL MEDIA LINKS
 
 Twitter: [@0xlegendury](https://twitter.com/0xlegendury?t=omacf4F2s-nt13hpIF6EwA&s=09)
 
 LinkedIn: [Oghenevusi N. Jakpor](https://www.linkedin.com/in/oghene-vusi-nobert-jakpor-1941b0198)
+
+Email: [Gmail](ovusinobert@gmail.com)
 
 
 
