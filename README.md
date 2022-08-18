@@ -1,4 +1,19 @@
-### Hi there 👋
+### **Hi there** 👋
+```javascript
+  `My Name is O'VUSI Nobert Jakpor`
+```
+**I am a web application/blockchain developer also skilled in cyber-security.** ewew
+
+## SKILLS AND STACKS
+
+
+
+
+
+
+
+
+
 
 <!--
 **Ovusi/Ovusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
