@@ -2,10 +2,25 @@
 ```javascript
   `My Name is O'VUSI Nobert Jakpor`
 ```
-**I am a web application/blockchain developer also skilled in cyber-security.** ewew
+ 
+ **I am a web application/blockchain developer also skilled in cyber-security.** 
 
 ## SKILLS AND STACKS
+:keyboard: Javascript/Nodejs
 
+:snake: Python
+
+:globe_with_meridians: Express
+
+:man_technologist: Solidity
+
+:mechanical_arm: Agile/SCRUM methodology
+
+:notes: Remix
+
+:desktop_computer: Linux
+
+:moneybag: Crypto Currencies
 
 
 
