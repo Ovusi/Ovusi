@@ -22,6 +22,11 @@
 
 :moneybag: Crypto Currencies
 
+## ACHIEVEMENTS AND CERTIFICATIONS
+:1st_place_medal: SCRUM Master Accredited Certification - International Scrum Institute.
+
+:1st_place_medal: CompTia Security+ - CompTia.
+
 
 
 
