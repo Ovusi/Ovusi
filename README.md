@@ -5,7 +5,7 @@
  
  ***I am a web application/blockchain developer also skilled in cyber-security. I am a very dedicated professional and I am always looking for new information to improve my knowledge and skill base. I am a strong believer in project based learning. I have a couple of repositories on Github where I displayed my skills and zeal to keep learning and challenging myself. I am looking for new and challenging opportunities in the technology industry in order to grow personally and be of immense usefulness to individuals and organizations that I can help with my abilities.*** 
 
-## SKILLS AND STACKS
+## :hammer_and_wrench: SKILLS AND STACKS
 :keyboard: Javascript/Nodejs
 
 :snake: Python
@@ -22,7 +22,7 @@
 
 :moneybag: Crypto Currencies
 
-## ACHIEVEMENTS AND CERTIFICATIONS
+## :medal_military: ACHIEVEMENTS AND CERTIFICATIONS
 :1st_place_medal: SCRUM Master Accredited Certification - International Scrum Institute.
 
 :1st_place_medal: CompTia Security+ - CompTia.
