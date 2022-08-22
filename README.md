@@ -37,7 +37,7 @@ Twitter: [@0xlegendury](https://twitter.com/0xlegendury?t=omacf4F2s-nt13hpIF6EwA
 
 LinkedIn: [Oghenevusi N. Jakpor](https://www.linkedin.com/in/oghene-vusi-nobert-jakpor-1941b0198)
 
-Email: [Gmail](ovusinobert@gmail.com)
+Email: ovusinobert@gmail.com
 
 
 
